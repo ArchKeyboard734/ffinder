@@ -1,0 +1,164 @@
+<script>
+  import NavBar from './navbar.svelte';
+</script>
+
+<NavBar />
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- <br>
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+<h1>Welcome to SvelteKit</h1>
+<p>Start editing this page to build your app.</p>
+
+<style>
+  body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+</style>
