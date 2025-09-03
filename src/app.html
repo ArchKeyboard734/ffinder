@@ -1,28 +1,20 @@
 <!doctype html>
-<html lang="en">
+<html data-theme="light" lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="/node_modules/@picocss/pico/css/pico.grey.min.css">
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">
 		<div style="display: contents">%sveltekit.body%</div>
 	</body>
 <style>
-*,
-*::before,
-*::after {
+html, body {
+  font-family: consolas;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-}
-
-html, body {
-  height: 100%;
-  color: black;
-  background: white;
-  font-family: consolas;
-  line-height: 1.5;
+  border:0;
 }
 
 </style>
